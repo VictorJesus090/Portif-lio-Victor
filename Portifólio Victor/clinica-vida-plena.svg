@@ -1,0 +1,19 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Clínica Vida Plena</title>
+<desc>Thumbnail do projeto Clínica Vida Plena, sistema de triagem com IA</desc>
+
+<rect width="300" height="300" fill="#0F766E"/>
+
+<circle cx="150" cy="120" r="55" fill="#FFFFFF"/>
+<rect x="138" y="90" width="24" height="60" rx="6" fill="#0F766E"/>
+<rect x="120" y="108" width="60" height="24" rx="6" fill="#0F766E"/>
+
+<path d="M70 220 Q90 190 110 220 Q130 190 150 220 Q170 190 190 220 Q210 190 230 220" 
+      fill="none" stroke="#5EEAD4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+<circle cx="70" cy="220" r="6" fill="#5EEAD4"/>
+<circle cx="150" cy="220" r="6" fill="#5EEAD4"/>
+<circle cx="230" cy="220" r="6" fill="#5EEAD4"/>
+
+<text x="150" y="270" font-family="Arial, sans-serif" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="middle">Vida Plena</text>
+</svg>

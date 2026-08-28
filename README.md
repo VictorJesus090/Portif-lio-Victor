@@ -1,0 +1,2 @@
+Estudante de Análise e Desenvolvimento de Sistemas, focado em HTML, CSS e JavaScript. Estou construindo minhas bases nessas tecnologias, criando projetos práticos como o SpeedFlow, com telas de agendamento para barbearias, e evoluindo continuamente através de exercícios e repositórios no GitHub.
+Busco uma oportunidade de estágio em TI para aplicar o que venho aprendendo e crescer como desenvolvedor.
